@@ -38,9 +38,4 @@ julien@ubuntu:~/0x07. Pyhton Strings$ python3 ./102-tests.py
   type: compact unicode object
   length: 14
   value: 숟가락은 존재하지 않는다.
-[.] string object info
-  type: compact unicode object
-  length: 10
-  value: スプーンは存在しない
-[.] string object info
-  [ERROR] Invalid String Object
+[.] stri
